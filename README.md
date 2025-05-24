@@ -1,0 +1,1 @@
+Utilizing Computer Vision techniques to develop an automated attendance tracking system for organizations and educational institutions. The system accurately monitors presence and instantly notifies respective authorities via email, enhancing accountability and operational efficiency.
